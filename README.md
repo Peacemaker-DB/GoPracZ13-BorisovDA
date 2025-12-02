@@ -37,6 +37,15 @@
 
 4. Анализ профилей
 
+Граф файла profile
+
+<img width="695" height="1042" alt="image" src="https://github.com/user-attachments/assets/47a7d0fa-25c1-47a7-aebb-9d736eb16cc6" />
+
+Граф файла heape
+
+<img width="547" height="998" alt="image" src="https://github.com/user-attachments/assets/beda6c46-8327-4ee7-a5f6-77dfc40cbf3c" />
+
+
 5. Ручное измерение времени функций
 
 Для ручного измерения времени был создан файл timer.go
@@ -62,4 +71,8 @@
 И был сделана вторая Бенчмарка
 
 <img width="372" height="138" alt="image" src="https://github.com/user-attachments/assets/0f450849-0c9e-4bb5-aeb5-12b167a263b7" />
+
+Запуск
+
+<img width="620" height="242" alt="image" src="https://github.com/user-attachments/assets/154a3a58-c86d-48b7-b1a8-208d50fb4f36" />
 
